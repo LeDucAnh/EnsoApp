@@ -1,7 +1,7 @@
-# EnsoApp
+# EnsoApp Demo
 Persional Card App, 
 
-# Demo VIDEOS
+#  VIDEOS
 
 https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X
 
@@ -14,7 +14,7 @@ https://drive.google.com/open?id=1QOyC_umQgsY-W8uI_7SIgAJhysxs37mp
 https://drive.google.com/open?id=1QmJCDrdwYzAU84KJXgW7PNGOeQMefiyA
 
 
-# Demo Screenshots
+#  Screenshots
 
 
 
