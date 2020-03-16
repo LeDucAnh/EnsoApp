@@ -4,8 +4,8 @@ Persional Card App,
 #  VIDEOS
 
 # Reading Open Graph data and display title, image of an url 
+[See parcing OGData](#https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X)
 
-https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X
 
 # Card animations, wave animations, viewcontroller transition animations
 Develop transition between viewcontrollers and their transitions,such as show up and boucing a view, zoom in for card and translate into a viewcontroller
