@@ -11,7 +11,7 @@ Persional Card App,
 
 
 # Card animations, wave animations, viewcontroller transition animations
-Develop transition between viewcontrollers and their transitions,such as show up and boucing a view, zoom in for card and translate into a viewcontroller
+Develop transition between viewcontrollers and their transitions,such as show up and boucing a view, zoom in for card and translate into a viewcontroller, wave animation and moving, displaying views animation, Data loaded is queried from Firebase Firestore 
 
 [See Demo Card animations](https://drive.google.com/open?id=1wDREMo968nWHUlbAQKhoAuoCvKWvzAA3)
 
