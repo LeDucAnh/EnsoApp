@@ -4,7 +4,7 @@ Persional Card App,
 #  VIDEOS
 
 # Reading Open Graph data and display title, image of an url 
-[See parcing OGData](#https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X)
+[See parcing OGData](https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X)
 
 
 # Card animations, wave animations, viewcontroller transition animations
