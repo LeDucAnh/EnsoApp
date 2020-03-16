@@ -26,7 +26,7 @@ Using xpath to parse html from a website to get element needed for a words such 
 
 I developed from scratch an animation such as shaking, curving and bouncing a line and finally to project the space ships
 
-(See Demo of loading Animation)(https://drive.google.com/open?id=1QmJCDrdwYzAU84KJXgW7PNGOeQMefiyA)
+[See Demo of loading Animation](https://drive.google.com/open?id=1QmJCDrdwYzAU84KJXgW7PNGOeQMefiyA)
 
 
 #  Screenshots
