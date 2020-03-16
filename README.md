@@ -4,8 +4,8 @@ Persional Card App,
 #  VIDEOS
 
 # Reading Open Graph data and display title, image of an url 
--Develop the parsing Open Graph Data and then save the data for future use locally using CoreData  
--Develop the category adding and removing by press and holding actions
+Develop the parsing Open Graph Data and then save the data for future use locally using CoreData  
+Develop the category adding and removing by press and holding actions
 
 [See demo parsing OGData](https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X)
 
