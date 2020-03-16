@@ -6,6 +6,7 @@ Persional Card App,
 # Reading Open Graph data and display title, image of an url 
 -Develop the parsing Open Graph Data and then save the data for future use locally using CoreData  
 -Develop the category adding and removing by press and holding actions
+
 [See demo parsing OGData](https://drive.google.com/open?id=17tExCycReTtEJXIwjkXajpaKvdNVow6X)
 
 
@@ -14,7 +15,7 @@ Develop transition between viewcontrollers and their transitions,such as show up
 
 [See Demo Card animations](https://drive.google.com/open?id=1wDREMo968nWHUlbAQKhoAuoCvKWvzAA3)
 
-[See Demo Card animations] (https://drive.google.com/open?id=1tYeN083ApkjHwkNgbj_8Cw-OAzv_aNQV)
+[See Demo More Beautiful Transitions](https://drive.google.com/open?id=1tYeN083ApkjHwkNgbj_8Cw-OAzv_aNQV)
 
 # Reading and parsing html from google translate to display definition of words
 using xpath to parse html from a website to get element needed for a words such as definition, example, synonym and word type (noun, verb or adjective)
