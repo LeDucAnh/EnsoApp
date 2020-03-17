@@ -28,6 +28,8 @@ I developed from scratch an animation such as shaking, curving and bouncing a li
 
 height of each cell is flexible and depend upon the size of the image loaded from the website url will provide different image)
 
+Height cell will be calculated based on 4 factors :  screen-size-width, screen-size-height and image-size-width, image-size-height 
+
 [See Demo of loading Animation](https://drive.google.com/open?id=1QmJCDrdwYzAU84KJXgW7PNGOeQMefiyA)
 
 
