@@ -30,6 +30,19 @@ Card Animation technique :
 # Reading and parsing html from google translate to display definition of words
 Using xpath to parse html from a website to get element needed for a words such as definition, example, synonym and word type (noun, verb or adjective)
 
+parsing Google translate Technique:
+
+1/ using xPath to read tag "gt-def-list" for list of definition, for each definition using tag "gt-def-info" 
+
+2/ read tag "gt-def-row" for definition and "gt-def-example" for example 
+
+3/ read tag "gt-cd-pos" for type of vocabulary such as noun, verb, adjective or adverb 
+
+4/ read tag "gt-cd-cl" for list of synonyms 
+
+5/ create a model that match the object and display using folding UITableview for each cell using MVC design
+
+
 [See Demo of Parsing HTML and display using folding animation](https://drive.google.com/open?id=1QOyC_umQgsY-W8uI_7SIgAJhysxs37mp)
 
 # Loadings animation and add more post from  firebase
