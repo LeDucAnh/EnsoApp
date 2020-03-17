@@ -14,8 +14,11 @@ Develop the category adding and removing by press and holding actions
 Develop transition between viewcontrollers and their transitions,such as show up and boucing a view, zoom in for card and translate into a viewcontroller, wave animation and moving, displaying views animation, Data loaded is queried from Firebase Firestore 
 
 Card Animation technique : 
--place image in scollview
--display image with 20px spacing between cell size and image after cropped size 
+
+1/place image in scollview, display image with 20px spacing between cell size and image after cropped size for all direction
+2/ when animating increase scrollview size upto 40px on the size RIGHT and BOTTOM, 
+3/ to achieve animation on the TOP and LEFT scrollview will be move UP and LEFT at the same time of animation
+
 
 [See Demo of Card animations](https://drive.google.com/open?id=1wDREMo968nWHUlbAQKhoAuoCvKWvzAA3)
 
