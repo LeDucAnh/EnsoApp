@@ -13,6 +13,10 @@ Develop the category adding and removing by press and holding actions
 # Card animations, wave animations, viewcontroller transition animations
 Develop transition between viewcontrollers and their transitions,such as show up and boucing a view, zoom in for card and translate into a viewcontroller, wave animation and moving, displaying views animation, Data loaded is queried from Firebase Firestore 
 
+Card Animation technique : 
+-place image in scollview
+-display image with 20px spacing between cell size and image after cropped size 
+
 [See Demo of Card animations](https://drive.google.com/open?id=1wDREMo968nWHUlbAQKhoAuoCvKWvzAA3)
 
 [See Demo of More Beautiful Transitions](https://drive.google.com/open?id=1tYeN083ApkjHwkNgbj_8Cw-OAzv_aNQV)
