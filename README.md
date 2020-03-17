@@ -1,5 +1,5 @@
 # EnsoApp Demo
-Persional Card App, 
+Persional Card App, source code is personal and private so if you want to see the source code plase contact me in a private manner through my email  
 
 #  VIDEOS
 
