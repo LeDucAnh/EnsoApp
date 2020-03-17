@@ -53,7 +53,7 @@ height of each cell is flexible and depend upon the size of the image loaded fro
 
 Height cell will be calculated based on 4 factors :  screen-size-width, screen-size-height and image-size-width, image-size-height. After height has been calculated the cell will be added to collectionview 
 
-[See Demo of loading Animation](https://drive.google.com/open?id=1QmJCDrdwYzAU84KJXgW7PNGOeQMefiyA)
+[See Demo of loading more post Animation](https://drive.google.com/open?id=1QmJCDrdwYzAU84KJXgW7PNGOeQMefiyA)
 
 
 #  Screenshots
