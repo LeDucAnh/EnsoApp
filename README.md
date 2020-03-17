@@ -16,7 +16,9 @@ Develop transition between viewcontrollers and their transitions,such as show up
 Card Animation technique : 
 
 1/place image in scollview, display image with 20px spacing between cell size and image after cropped size for all direction
+
 2/ when animating increase scrollview size upto 40px on the size RIGHT and BOTTOM, 
+
 3/ to achieve animation on the TOP and LEFT scrollview will be move UP and LEFT at the same time of animation
 
 
